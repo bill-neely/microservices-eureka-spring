@@ -11,3 +11,7 @@ Following the approach in three posts:
 2. Run each project on a unique port
 3. Start multiple instances of imageservice, galleryservice, and authservice using different ports.
 4. Send requests as documented in "Testing Our Microservices" - https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-authentication-with-jwt-part-3-fafc9d7187e8
+
+
+### Another good exmaple for using JJWT at:
+https://aboullaite.me/spring-boot-token-authentication-using-jwt/
