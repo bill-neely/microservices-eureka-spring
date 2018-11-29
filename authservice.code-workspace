@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "authservice"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

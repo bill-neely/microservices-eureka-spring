@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "galleryservice"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
